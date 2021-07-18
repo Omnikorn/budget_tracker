@@ -37,6 +37,7 @@
 This is a simple progressive web application designed with the world traveller in mind. It is designed to work offline during periods of internet outage where a user can still enter their information (i.e expenses) to be stored locally then to be uploaded to the main database when the user next connect online   
 
   
+![image](https://user-images.githubusercontent.com/75341811/126077070-b9cf7a32-a3c5-480a-8cc2-226b42f08d0d.png)
 
 
 
